@@ -1,0 +1,28 @@
+h1{
+text-align: center;
+font-size: 80px;
+color: black;
+}
+body{
+	background-image:url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWeUZ4VNQJU2foC2Gg3QlI0AFshb33mQz0e7JlAOjAIMuy8xjvzQ");
+	background-size: cover;
+    text-align: center;
+    font-size: 10px;
+    color:blue ;
+
+}
+input{
+	border-radius: 16px;
+}
+p{
+	font-size: 30px;
+	text-align: center;
+	font-style: italic;
+}
+ul{
+	text-align: left;
+	font-size: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
